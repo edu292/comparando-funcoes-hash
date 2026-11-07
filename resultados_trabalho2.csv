@@ -1,0 +1,17 @@
+conjunto;funcao;chaves;posicoesUsadas;posicoesNuncaUsadas;maiorConcentracao;somaQuadrados;colisoes;acessosInsercaoTotal;maiorAcessosUmaInsercao;acessosBuscaSucessoMedia;tempoInsercaoNsPorOp
+A;divisao;700;502;498;5;1212;253;1439;17;2,06;131
+A;primo;700;515;485;4;1150;240;1413;26;2,02;73
+A;dobra;700;502;498;5;1198;250;1641;40;2,34;96
+A;meioQuadrado;700;504;496;5;1204;238;1377;17;1,97;54
+B;divisao;700;1;999;700;490000;699;245350;700;350,50;1517
+B;primo;700;520;480;4;1136;216;1325;27;1,89;37
+B;dobra;700;518;482;4;1120;233;1302;20;1,86;54
+B;meioQuadrado;700;22;978;82;27118;678;21291;225;30,42;171
+C;divisao;700;100;900;13;5740;600;3425;36;4,89;91
+C;primo;700;501;499;6;1210;245;1459;29;2,08;69
+C;dobra;700;517;483;5;1154;226;1393;35;1,99;67
+C;meioQuadrado;700;503;497;5;1208;242;1447;40;2,07;80
+D;divisao;700;700;300;1;700;0;700;1;1,00;24
+D;primo;700;700;300;1;700;0;700;1;1,00;28
+D;dobra;700;700;300;1;700;0;700;1;1,00;53
+D;meioQuadrado;700;250;750;7;2822;650;4392;10;6,27;97

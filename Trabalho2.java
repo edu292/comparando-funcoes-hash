@@ -304,8 +304,8 @@ public class Trabalho2 {
         int[] conjuntoH7 = geraConjunto(new java.util.Random(1990), 1, 700);
         for (int indice = 0; indice < QUANTIDADE; indice += 1) {
             for (int funcao = 1; funcao <= 4; funcao += 1) {
-                int hash = aplicaHash(conjuntoH7[indice], funcao);
-                if (hash < 0 || hash > 999) {
+                int posicaoHash = aplicaHash(funcao, conjuntoH7[indice]);
+                if (posicaoHash < 0 || posicaoHash > 999) {
                     passouH7 = false;
                 }
             }
